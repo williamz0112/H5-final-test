@@ -1,0 +1,9 @@
+@charset "utf-8";
+.middle {
+	background-image: url(images/banner.jpg);
+	height: 317px;
+	width: 1003px;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+}
