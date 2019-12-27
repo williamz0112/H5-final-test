@@ -1,0 +1,9 @@
+@charset "utf-8";
+.box .dbody .bootom {
+	background-image: url(../filletBott.jpg);
+	height: 40px;
+	width: 803px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: -12px;
+}

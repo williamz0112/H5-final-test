@@ -1,0 +1,16 @@
+@charset "utf-8";
+.box .dbody .middle {
+	background-image: url(../contentBg.jpg);
+	height: auto;
+	width: 803px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.box .dbody .middle {
+	background-image: url(../contentBg.jpg);
+	height: auto;
+	width: 803px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: -12px;
+}

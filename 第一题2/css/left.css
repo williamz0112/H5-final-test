@@ -1,0 +1,8 @@
+@charset "utf-8";
+.box .dbody .middle .left {
+	background-image: url(../channel01.jpg);
+	height: 117px;
+	width: 41px;
+	margin-left: 25px;
+	float: left;
+}

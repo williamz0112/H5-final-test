@@ -1,0 +1,7 @@
+@charset "utf-8";
+.box .dbody .middle .right {
+	float: left;
+	height: 400px;
+	width: 220px;
+	margin-top: 200px;
+}

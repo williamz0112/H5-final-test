@@ -1,0 +1,8 @@
+@charset "utf-8";
+.box .dbody .top {
+	background-image: url(../filletTop.jpg);
+	height: 34px;
+	width: 803px;
+	margin-right: auto;
+	margin-left: auto;
+}

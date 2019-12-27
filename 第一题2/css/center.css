@@ -1,0 +1,11 @@
+@charset "utf-8";
+.box .dbody .middle .centre {
+	float: left;
+	height: 500px;
+	width: 500px;
+}
+.box .dbody .middle .centre table tr td p {
+	font-weight: bold;
+	font-size: 16px;
+	color: #000;
+}
